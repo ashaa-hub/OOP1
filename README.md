@@ -1,2 +1,2 @@
-Hallo, ini adalah repositori untuk bealajar OOP pertama
+Hallo, ini adalah repositori untuk belajar OOP pertama
 Materi dasar seperti kelas, objek, parameter, dan method.
